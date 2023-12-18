@@ -59,9 +59,8 @@ disableKinds = ["taxonomy", "term"]
     # { youtube = "https://youtube.com/username" },
   ]
 
-[services]
-  [services.googleAnalytics]
-    ID = "G-C9Y93Q8V10"
+[params.analytics.ga4]
+  ID = "G-C9Y93Q8V10"
 
 [module]
   [module.hugoVersion]
