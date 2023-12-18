@@ -1,7 +1,6 @@
 baseURL = "https://leo.cards/"
 languageCode = "en"
 defaultContentLanguage = "en"
-googleAnalytics= "G-C9Y93Q8V10"
 
 
 title = "Leo around the web"
@@ -59,6 +58,10 @@ disableKinds = ["taxonomy", "term"]
     # { x = "https://x.com/username" },
     # { youtube = "https://youtube.com/username" },
   ]
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-C9Y93Q8V10"
 
 [module]
   [module.hugoVersion]
