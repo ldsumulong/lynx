@@ -1,4 +1,4 @@
-baseURL = "https://leo.cards/"
+baseURL = "https://leonardo.exchange/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
@@ -20,6 +20,7 @@ disableKinds = ["taxonomy", "term"]
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
+    { bluesky = { href = "https://bsky.app/profile/sumulong.bsky.social", text = "Bluesky" } },
     # { codepen = "https://codepen.io/username" },
     # { dev = "https://dev.to/username" },
     # { discord = "https://discord.gg/invitecode" },
@@ -30,7 +31,7 @@ disableKinds = ["taxonomy", "term"]
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    { instagram = "https://instagram.com/lx_avant" },
+    { instagram = "https://instagram.com/lux_prima" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
@@ -54,7 +55,7 @@ disableKinds = ["taxonomy", "term"]
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     # { twitter = { href = "https://twitter.com/username", text = "@leowulv on Twitter" } },
-    { whatsapp = "https://wa.me/491703484918" },
+    { whatsapp = "https://wa.me/19177703078" },
     # { x = "https://x.com/username" },
     # { youtube = "https://youtube.com/username" },
   ]
